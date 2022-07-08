@@ -43,3 +43,16 @@
   display: block;
   padding-bottom: 100%;
 }
+
+.container {
+  margin: 3rem;
+  border: 1px solid #f2f2f2;
+}
+
+.container-fluid {
+  border: solid 1px;
+}
+
+.table-head {
+  background-color: #273e4e;
+}
